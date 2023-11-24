@@ -1,2 +1,2 @@
 # praktikumwebgis2cok
-cuma latian puh sepuh
+https://dfordangerouss.github.io/praktikumwebgis2/
